@@ -1,7 +1,7 @@
 function theBeatlesPlay(musicians, instruments){
-  var arr = [];
+  var theBeatlesPlay = [];
 
   for(i = 0; i < 4; i++){
-    arr = `${musicians} plays ${instruments}`;
+    theBeatlesPlay = `${musicians} plays ${instruments}`;
   }
 }
